@@ -1,0 +1,9 @@
+node_modules/
+
+datasets*/
+results/
+maps_normalized/
+csv/
+
+*.zip
+*.csv
